@@ -1,0 +1,33 @@
+p{
+color: rgba(255, 0, 0, 0.705);
+background-color: rgb(0, 140, 255);
+border: 5px;
+}
+h2{
+    color:white;
+    background-color: black;
+}
+
+div{
+color: limegreen;
+background-color:rgb(6, 39, 77);
+}
+
+.div20{
+color: rgba(8, 37, 131, 0.705);
+background-color: rgb(123, 133, 141);
+border: 10px;
+border-width: 5px;
+border-color: whitesmoke;
+border-style:double;
+}
+
+img{
+border: 5px;
+border-color: chocolate;
+border-width: 5px;
+}
+
+a{ 
+color: white !important;
+}
